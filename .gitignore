@@ -1,1 +1,6 @@
 .spyproject/
+cartpole.py
+log_reward.txt
+log_reward1.txt
+play.py
+./model
